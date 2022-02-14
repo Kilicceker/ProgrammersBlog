@@ -19,7 +19,7 @@ namespace ProgrammersBlog.Entities.Concrete
 
         public  byte[] PasswordHash { get; set; }
 
-        public string UserName { get; set; }
+        public string Username { get; set; }
 
         public int RoleId { get; set; }
 
